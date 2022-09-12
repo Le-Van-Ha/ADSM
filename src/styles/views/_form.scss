@@ -1,0 +1,22 @@
+.upload-drop-box {
+  height: 120px;
+  width: 100%;
+  border: 2px solid $light-gray;
+  border-radius: 4px;
+}
+.drag-shadow {
+  background: $primary;
+  box-shadow: 3px 3px 10px rgba($color: #000000, $alpha: 0.2);
+}
+
+.testedDate_KeyboardDatePicker {
+  @include media(1360px) {
+    width: 160px !important;
+  }
+  @include media(1192px) {
+    width: 100% !important;
+  }
+  @include media(1100px) {
+    width: 160px !important;
+  }
+}

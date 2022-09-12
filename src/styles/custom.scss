@@ -1,0 +1,82 @@
+.MuiTableRow-root .MuiTableCell-head {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.MuiTableRow-root .MuiTableCell-root {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.MuiTableRow-root .MuiTableCell-paddingNone {
+    padding: 0px;
+}
+
+.MuiIconButton-root {
+    cursor: pointer;
+}
+
+.asset_department {
+    background-color: #fff;
+    padding: 8px;
+    height: auto;
+}
+
+.w-60 {
+    width: 60%;
+}
+
+.margin-auto {
+    margin: auto;
+}
+
+.mt-5 {
+    margin-top: 5px !important;
+}
+
+.none_wrap {
+    white-space: nowrap !important;
+}
+
+.validator-form-scroll-dialog {
+    overflow-y: auto !important;
+    display: flex !important;
+    flex-direction: column !important;
+}
+
+.logo-login {
+    max-width: 400px !important;
+}
+
+.logo-login img {
+    width: 100% !important;
+}
+
+.float-right {
+    float: right !important;
+}
+
+.filter-containers {
+    background-color: #f9fafb;
+    border-radius: 0.25rem;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 1.2rem;
+    // display: grid;
+    // grid-template: repeat(2, 50px) / repeat(5, 1fr);
+    // gap: 15px;
+    // align-items: end;
+}
+
+// .logo-menu{
+//     max-width: 100px !important;
+// }
+// .logo-menu img{
+//     width: 100% !important;
+// }
+.MuiInputBase-root.Mui-disabled {
+    color: #000 !important;
+}
+
+.background-color-mariner {
+    background-color: #2a80c8 !important;
+}

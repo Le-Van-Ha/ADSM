@@ -1,0 +1,7 @@
+    .dynamic-table table>tbody>tr>td {
+        padding: 0!important;
+    }
+    
+    .dynamic-table table>tbody>tr>td .MuiOutlinedInput-root {
+        border-radius: 0!important;
+    }
